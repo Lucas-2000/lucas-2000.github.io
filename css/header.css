@@ -21,6 +21,11 @@
   text-decoration: none;
   color: #141414;
   display: block;
+  transition: 0.4s;
+}
+
+.header-menu a:hover {
+  opacity: 0.8;
 }
 
 @media (max-width: 900px) {

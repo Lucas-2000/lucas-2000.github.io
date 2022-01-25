@@ -32,6 +32,11 @@
   margin-bottom: 20px;
   border-radius: 4px;
   position: relative;
+  transition: 0.4s;
+}
+
+.empresa:hover {
+  background: #d7d7d7;
 }
 
 .empresa::before {
